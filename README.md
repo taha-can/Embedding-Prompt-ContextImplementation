@@ -24,7 +24,7 @@ Contact
 
 If you have any questions or suggestions about the project, please feel free to contact the author, Taha Yusuf Can, via email at taha.can@algofact.tech or via LinkedIn at .
 
-[![LinkedIn](https://img.shields.io/badge/Taha-Yusuf-Can-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yusuf-can/ "Connect on LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/Taha-Yusuf-Can?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yusuf-can/ "Connect on LinkedIn")
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tahayusufcan)
 
